@@ -97,7 +97,7 @@ Formal guidelines may be added if there is sufficient interest. For now, please 
 
 The intent is to reduce information asymmetry and surface genuinely useful resources.
 
-If GitHub is not your preferred contribution method, you can contact me at https://heyimmd.com.
+If GitHub is not your preferred contribution method, I have a **Get in touch →** page at my website [HeyImMD](https://heyimmd.com)
 
 ## License
 
