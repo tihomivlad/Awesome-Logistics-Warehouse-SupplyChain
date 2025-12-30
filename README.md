@@ -32,6 +32,7 @@ Well-known and industry-standard resources are included as a baseline reference.
 - [APICS Certification Programs](https://www.ascm.org/learning-development/certifications-credentials/) - CSCP, CPIM, CLTD certifications
 - [edX Supply Chain Courses](https://www.edx.org/learn/supply-chain-management) - University-level courses
 - [Warehouse Science](https://www.warehouse-science.com/) - Math models to optimize time and space in a warehouse(J. Bartholdi III, Georgia Institute of Technology). Free Book and softwares on the site
+- [Open Educator](https://www.theopeneducator.com/operations) MSU professor created youtube videos on operations research, forecasting, inventory,Human Factors & Ergonomics and optimization techniques—primarily through Excel-based examples
 - [Awesome Optimization](https://github.com/ebrahimpichka/awesome-optimization) - Curated list of (mostly) free and open educational resources for mathematical optimization
 
 ## Data & Analytics
