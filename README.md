@@ -84,6 +84,7 @@ Well-known and industry-standard resources are included as a baseline reference.
 - [Google OR-Tools](https://developers.google.com/optimization) - Open source software suite for optimization, tuned for tackling the world's toughest problems in vehicle routing, flows, integer and linear programming, and constraint programming
 - [Batch Census Geocoder ](https://geocoding.geo.census.gov/geocoder/locations/addressbatch?form) - Free geocoding for addresses that are within the United States, Puerto Rico, and the U.S. Island Areas
 - [Valhalla](https://github.com/valhalla/valhalla) - Open Source Routing Engine for OpenStreetMap.Includes tools like time+distance matrix computation, isochrones, elevation sampling, map matching and tour optimization (Travelling Salesman) 
+- [Packrift Packaging Fit Lab](https://packrift.github.io/packaging-fit-lab/) - Free packaging fit and DIM-weight planning tool for comparing box or mailer options, batch-checking SKU scenarios, and exporting fit/cost notes.
 - Need more contributions
 
 ---
