@@ -47,6 +47,7 @@ Well-known and industry-standard resources are included as a baseline reference.
 - [Logistics Manager's Index](https://www.the-lmi.com/) - Monthly logistics indicators
 - [FreightWaves SONAR](https://www.freightwaves.com/sonar) - Real-time freight market data
 - [DAT Freight & Analytics](https://www.dat.com/) - Truckload rate data
+- [Superhighway](https://superhighway.walls.sh/guides/supply-chain-research-agent) - Python agent guide that researches suppliers, commodity pricing, freight rates, and supply chain disruptions via live web search, producing structured intelligence briefs with risk ratings and alternative sourcing recommendations. Pay-per-call, no signup.
 
 ## Sustainability & Green Logistics
 
